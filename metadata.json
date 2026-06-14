@@ -1,0 +1,11 @@
+{
+  "name": "Integrated HR Portal",
+  "description": "Integrated HR Management System for the Ministry of Education with offline sync and secure payroll controls.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
